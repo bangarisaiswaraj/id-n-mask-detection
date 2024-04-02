@@ -41,7 +41,7 @@ This Flask REST API application is designed to detect ID-card and Mask from imag
 
 1. Activate the virtual environment (if not already activated):
     ```bash
-    source venv/bin/activate  # On Windows, use venv\Scripts\activate
+    source .venv/bin/activate  # On Windows, use venv\Scripts\activate
     ```
 
 2. Start the server:
